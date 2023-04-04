@@ -1,4 +1,4 @@
-rpackage com.example.ipp_android_app
+package com.example.ipp_android_app
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar

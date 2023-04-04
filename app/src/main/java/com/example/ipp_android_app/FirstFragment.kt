@@ -13,7 +13,7 @@ import com.example.ipp_android_app.databinding.FragmentFirstBinding
  */
 class FirstFragment : Fragment() {
 
-    private var _binding: FragmentFirstBinding? = null
+    private var _binding: FragmentFirstBinding? = null //yes
 
     // This property is only valid between onCreateView and
     // onDestroyView.
